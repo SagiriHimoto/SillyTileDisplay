@@ -6,10 +6,6 @@ And it comes with prepackaged layout configurations for games such as "Mega Man 
 
 ------------
 
-[TOC]
-
-------------
-
 ### Features
 
 - Display that renders tiles as configured y the user;
