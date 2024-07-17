@@ -68,11 +68,14 @@ This edit will make it so that the script prompts the user every time, to provid
 #### Overlay File
 This script provides users with the ability to overlay any picture over the tileset. This allows users to quickly reference information for editing or testing the tileset.  This script comes prepackaged with three overlays (for "Mega Man Maker" tilesets):
 
+
 | Name | Function | Key |
 | - | - | - | - |
 | overlay_a.png | Indicates tile numbers from config_mmm.json | **`F1`** |
 | overlay_b.png | Indicates vertically and horizontally odd/even tiles with colored circles | **`F2`** |
 | overlay_c.png | Indicates "bridges", "pillars", "corners", and "walls" with silly small icons | **`F3`** |
+
+
 User can change overlays by editing these files, or by editing lines 18-20:
 ```py
 OVERLAY_FILE_A = "overlay_a.png"
