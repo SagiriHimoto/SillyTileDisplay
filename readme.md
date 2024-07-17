@@ -5,7 +5,8 @@
 And it comes with prepackaged layout configurations for games such as "Mega Man Maker"!
 
 ------------
-[TOC]
+
+[TOCM]
 
 ------------
 
