@@ -1,3 +1,4 @@
+![](https://github.com/SagiriHimoto/SillyTileDisplay/blob/main/preview.gif?raw=true)
 # Tile Display Program
 ![](https://img.shields.io/github/stars/SagiriHimoto/SillyTileDisplay.svg) ![](https://img.shields.io/github/forks/SagiriHimoto/SillyTileDisplay.svg) ![](https://img.shields.io/github/issues/SagiriHimoto/SillyTileDisplay.svg)
 
